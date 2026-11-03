@@ -77,7 +77,7 @@ export default function Hero() {
               <p className="mt-1 text-xs text-warm-gray">{t("thoughtfulTailoring")}</p>
             </div>
           </div>
-          <div className="absolute -bottom-5 -left-3 rounded-2xl bg-white px-4 py-3 shadow-soft sm:-left-7 sm:px-5">
+          <div className="absolute -bottom-8 -left-3 rounded-2xl bg-white px-4 py-3 shadow-soft sm:-left-7 sm:px-5">
             <p className="font-display text-lg text-forest">{t("madeForYou")}</p>
             <p className="text-[11px] text-warm-gray">{t("fittedWithCare")}</p>
           </div>
